@@ -1,0 +1,82 @@
+
+.navbar{
+    background-color: #0a0b27;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: #e53f27;
+}
+.navbar-nav{
+    gap: 41px;
+}
+.navbar-toggler{
+    color: white;
+}
+.bg-color{
+    position: relative;
+}
+.left-text{
+    font-size: 20px;
+}
+.leaf-img{
+    position: absolute;
+    left: 50%;
+    width: 190px;
+    transform: translatex(-50%);
+    top: 20%;
+}
+.img-responsive{
+    height: auto;
+    max-width: 100%;
+}
+.no-padd{
+    padding-left: 0;
+    padding-right: 0;
+}
+.main-text{
+    position: relative;
+    width: 60%;
+    margin: auto;
+    top: 351px;
+    color: white;
+}
+.main-text h1{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+.content-details{
+    font-size: 20px;
+    line-height: 1.4;
+    color: #151515;
+    text-align: left;
+    padding: 50px;
+}
+.texts{
+    position: relative;
+    font-size: 17px;
+    
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+.footer{
+    height: 300px;
+}
+.dropdown-menu{
+    background-color: #e53f27;
+    color: white;
+    font-size: 20px;
+}
+.footer-section{
+    font-size: 13px;
+}
+.queries{
+    font-weight: bold;
+}
+
+
